@@ -10,6 +10,8 @@
 
 ## 个人信息
 
+<img src="images/profile.jpg" alt="吴帅卿" width="130" align="right">
+
 | | |
 |---|---|
 | **姓名** | 吴帅卿 |
